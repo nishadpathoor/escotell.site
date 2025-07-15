@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://nishadpathoor.github.io/escotell.site",
+  "homepage": "https://escotell.com",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
